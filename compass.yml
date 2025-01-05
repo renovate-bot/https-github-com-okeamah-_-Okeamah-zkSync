@@ -1,0 +1,16 @@
+name: Okeamah-zkSync
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/faaef55d-1e18-488c-afc8-e082501e9b6c
+description: zkSync integration for the Okeamah project, enabling Layer 2 interactions such as sending tokens and interacting with smart contracts.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/https-github-com-okeamah/Okeamah-zkSync
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
